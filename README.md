@@ -25,5 +25,5 @@ function removeTransition(e) {
 
 ## License
 
-`Drums` is available under the MIT license.
+`Drums application` is available under the MIT license.
 
